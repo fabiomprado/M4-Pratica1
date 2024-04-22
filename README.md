@@ -1,12 +1,7 @@
-# COMANDOS PARA EXECUTAR O APLICATIVO
+# COMANDOS PARA EXECUTAR O APLICATIVO:
 
-# para executar o aplicativo basta executar no terminal 
+# para executar o aplicativo basta executar:
 - npx react-native start
 - depois selecione a opção andorid
-# em outro terminal acessando a pagina /src execute o banco de dados com o comando 
+# em outro terminal acessando a pagina /src execute o banco de dados com o comando :
 -  node server.js
-
-
-# O APP ESTAR NA PASTA SRC 
-
-# O RELATORIO E IMAGENS DO APP FUNCIONANDO ESTAR NA PASTA RELATORIO
